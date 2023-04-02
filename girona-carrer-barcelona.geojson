@@ -1,0 +1,2800 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-14T11:21:52Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61943142",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8109875,
+            41.9613208
+          ],
+          [
+            2.8110053,
+            41.9614103
+          ],
+          [
+            2.8109966,
+            41.9615074
+          ],
+          [
+            2.8109969,
+            41.9616249
+          ],
+          [
+            2.8109971,
+            41.9616868
+          ]
+        ]
+      },
+      "id": "way/61943142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61944013",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8061123,
+            41.949004
+          ],
+          [
+            2.8060835,
+            41.9490998
+          ],
+          [
+            2.8060653,
+            41.9492184
+          ],
+          [
+            2.8060571,
+            41.9493678
+          ]
+        ]
+      },
+      "id": "way/61944013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61944969",
+        "highway": "residential",
+        "lanes": "1",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "oneway": "yes",
+        "parking:lane:both": "no",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8114406,
+            41.9615551
+          ],
+          [
+            2.8113636,
+            41.9615527
+          ],
+          [
+            2.8113069,
+            41.9615536
+          ],
+          [
+            2.811263,
+            41.9615621
+          ],
+          [
+            2.8112218,
+            41.9615736
+          ],
+          [
+            2.8111869,
+            41.9615947
+          ],
+          [
+            2.8111721,
+            41.9616086
+          ],
+          [
+            2.8111623,
+            41.9616178
+          ],
+          [
+            2.8111429,
+            41.9616466
+          ],
+          [
+            2.8111364,
+            41.9616783
+          ],
+          [
+            2.8111363,
+            41.9617178
+          ],
+          [
+            2.8111465,
+            41.9617514
+          ]
+        ]
+      },
+      "id": "way/61944969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61948199",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "sidewalk": "right",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8103416,
+            41.9567651
+          ],
+          [
+            2.8102423,
+            41.9568778
+          ],
+          [
+            2.8101948,
+            41.9569492
+          ],
+          [
+            2.8100945,
+            41.9570678
+          ]
+        ]
+      },
+      "id": "way/61948199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083007",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8060571,
+            41.9493678
+          ],
+          [
+            2.8061977,
+            41.9497816
+          ],
+          [
+            2.8063137,
+            41.9501156
+          ],
+          [
+            2.8064311,
+            41.9504212
+          ],
+          [
+            2.8064597,
+            41.9504893
+          ],
+          [
+            2.8068057,
+            41.9513398
+          ],
+          [
+            2.8068764,
+            41.9515101
+          ]
+        ]
+      },
+      "id": "way/62083007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083010",
+        "cycleway:right": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8097185,
+            41.9562681
+          ],
+          [
+            2.8097232,
+            41.9561837
+          ],
+          [
+            2.8096997,
+            41.9561232
+          ],
+          [
+            2.8096581,
+            41.95606
+          ],
+          [
+            2.8096279,
+            41.9560145
+          ]
+        ]
+      },
+      "id": "way/62083010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083012",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8080585,
+            41.9544411
+          ],
+          [
+            2.8078735,
+            41.9543072
+          ],
+          [
+            2.8074575,
+            41.9532971
+          ],
+          [
+            2.807084,
+            41.9523589
+          ],
+          [
+            2.8067444,
+            41.9515141
+          ],
+          [
+            2.8064031,
+            41.9506617
+          ],
+          [
+            2.8060024,
+            41.9495997
+          ],
+          [
+            2.805926,
+            41.9493649
+          ],
+          [
+            2.8058836,
+            41.9492739
+          ],
+          [
+            2.8058411,
+            41.9492057
+          ],
+          [
+            2.8057953,
+            41.9491527
+          ],
+          [
+            2.8057325,
+            41.9491009
+          ],
+          [
+            2.8056832,
+            41.949063
+          ],
+          [
+            2.8056578,
+            41.9490151
+          ],
+          [
+            2.8056542,
+            41.9489465
+          ]
+        ]
+      },
+      "id": "way/62083012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083013",
+        "cycleway:right": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8096279,
+            41.9560145
+          ],
+          [
+            2.8097575,
+            41.9560506
+          ],
+          [
+            2.8099381,
+            41.9561218
+          ]
+        ]
+      },
+      "id": "way/62083013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083024",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "sidewalk": "right",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8100945,
+            41.9570678
+          ],
+          [
+            2.8099607,
+            41.9573378
+          ],
+          [
+            2.8098747,
+            41.9575276
+          ]
+        ]
+      },
+      "id": "way/62083024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083028",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8060571,
+            41.9493678
+          ],
+          [
+            2.8059804,
+            41.9492285
+          ],
+          [
+            2.805926,
+            41.9491565
+          ],
+          [
+            2.8058242,
+            41.9490628
+          ]
+        ]
+      },
+      "id": "way/62083028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62083047",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "sidewalk": "none",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8100945,
+            41.9570678
+          ],
+          [
+            2.8100938,
+            41.9569312
+          ],
+          [
+            2.8100938,
+            41.9568989
+          ],
+          [
+            2.810083,
+            41.9568667
+          ],
+          [
+            2.8100673,
+            41.9567995
+          ]
+        ]
+      },
+      "id": "way/62083047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62097410",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8109971,
+            41.9616868
+          ],
+          [
+            2.8109423,
+            41.9616377
+          ],
+          [
+            2.8108764,
+            41.9615786
+          ],
+          [
+            2.8107893,
+            41.9614997
+          ],
+          [
+            2.8107145,
+            41.9614466
+          ],
+          [
+            2.81065,
+            41.9614116
+          ],
+          [
+            2.8105357,
+            41.9613153
+          ]
+        ]
+      },
+      "id": "way/62097410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62097412",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "sidewalk": "right",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8103505,
+            41.9600901
+          ],
+          [
+            2.8104759,
+            41.9602695
+          ],
+          [
+            2.8105699,
+            41.9603615
+          ],
+          [
+            2.8106866,
+            41.9604405
+          ],
+          [
+            2.8107879,
+            41.9605368
+          ]
+        ]
+      },
+      "id": "way/62097412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62097416",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8109971,
+            41.9616868
+          ],
+          [
+            2.8110104,
+            41.961719
+          ]
+        ]
+      },
+      "id": "way/62097416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62097422",
+        "highway": "residential",
+        "lanes": "1",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "oneway": "yes",
+        "parking:lane:both": "no",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8110104,
+            41.961719
+          ],
+          [
+            2.8111634,
+            41.9617922
+          ]
+        ]
+      },
+      "id": "way/62097422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62097426",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "foot": "yes",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "yes",
+        "ref": "N-IIa",
+        "sidewalk": "none",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8102529,
+            41.9606737
+          ],
+          [
+            2.8102739,
+            41.9605259
+          ],
+          [
+            2.810314,
+            41.9604159
+          ],
+          [
+            2.8103383,
+            41.9603291
+          ],
+          [
+            2.810347,
+            41.9602333
+          ],
+          [
+            2.8103505,
+            41.9600901
+          ]
+        ]
+      },
+      "id": "way/62097426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69748042",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8170253,
+            41.9765872
+          ],
+          [
+            2.8170384,
+            41.9766169
+          ],
+          [
+            2.8170785,
+            41.9767047
+          ],
+          [
+            2.8171378,
+            41.976851
+          ],
+          [
+            2.8173605,
+            41.9774018
+          ]
+        ]
+      },
+      "id": "way/69748042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72876088",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8186899,
+            41.9806907
+          ],
+          [
+            2.8187441,
+            41.9808188
+          ],
+          [
+            2.8187945,
+            41.9809449
+          ]
+        ]
+      },
+      "id": "way/72876088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/72876101",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8185886,
+            41.9804425
+          ],
+          [
+            2.8186414,
+            41.9805785
+          ],
+          [
+            2.8186899,
+            41.9806907
+          ]
+        ]
+      },
+      "id": "way/72876101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188798421",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8166574,
+            41.9756594
+          ],
+          [
+            2.8166852,
+            41.9757276
+          ],
+          [
+            2.8169571,
+            41.9764164
+          ],
+          [
+            2.8169854,
+            41.9764865
+          ],
+          [
+            2.8170253,
+            41.9765872
+          ]
+        ]
+      },
+      "id": "way/188798421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/348295706",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8181275,
+            41.979291
+          ],
+          [
+            2.8182188,
+            41.9795221
+          ],
+          [
+            2.8182452,
+            41.979589
+          ],
+          [
+            2.818382,
+            41.9799352
+          ],
+          [
+            2.8184381,
+            41.9800688
+          ]
+        ]
+      },
+      "id": "way/348295706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360813353",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "foot": "yes",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "shoulder": "both",
+        "sidewalk": "none",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8098959,
+            41.9589699
+          ],
+          [
+            2.8099099,
+            41.9590131
+          ],
+          [
+            2.810123,
+            41.9595127
+          ],
+          [
+            2.8103505,
+            41.9600901
+          ]
+        ]
+      },
+      "id": "way/360813353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970467",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8190277,
+            41.9815164
+          ],
+          [
+            2.8190768,
+            41.9816365
+          ]
+        ]
+      },
+      "id": "way/412970467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970470",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8187945,
+            41.9809449
+          ],
+          [
+            2.8188266,
+            41.9810236
+          ],
+          [
+            2.8190277,
+            41.9815164
+          ]
+        ]
+      },
+      "id": "way/412970470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970477",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8184381,
+            41.9800688
+          ],
+          [
+            2.8184697,
+            41.9801455
+          ],
+          [
+            2.8185709,
+            41.9803908
+          ],
+          [
+            2.8185886,
+            41.9804425
+          ]
+        ]
+      },
+      "id": "way/412970477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970479",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8176408,
+            41.9780934
+          ],
+          [
+            2.8177045,
+            41.9782517
+          ],
+          [
+            2.8179332,
+            41.9788191
+          ],
+          [
+            2.8180103,
+            41.9790105
+          ]
+        ]
+      },
+      "id": "way/412970479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970486",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "no",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8158382,
+            41.9736614
+          ],
+          [
+            2.8158523,
+            41.9736971
+          ],
+          [
+            2.8159907,
+            41.9740332
+          ]
+        ]
+      },
+      "id": "way/412970486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970487",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8155249,
+            41.972879
+          ],
+          [
+            2.8157176,
+            41.9733603
+          ],
+          [
+            2.8157689,
+            41.9734884
+          ],
+          [
+            2.8158279,
+            41.9736357
+          ],
+          [
+            2.8158382,
+            41.9736614
+          ]
+        ]
+      },
+      "id": "way/412970487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970492",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8146566,
+            41.9707148
+          ],
+          [
+            2.8149034,
+            41.9713216
+          ],
+          [
+            2.8149347,
+            41.9714004
+          ]
+        ]
+      },
+      "id": "way/412970492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970495",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8142776,
+            41.9698107
+          ],
+          [
+            2.8143352,
+            41.9699554
+          ],
+          [
+            2.8144025,
+            41.9701112
+          ]
+        ]
+      },
+      "id": "way/412970495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970496",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8141998,
+            41.9696233
+          ],
+          [
+            2.8142776,
+            41.9698107
+          ]
+        ]
+      },
+      "id": "way/412970496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970497",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8140374,
+            41.9692052
+          ],
+          [
+            2.8141998,
+            41.9696233
+          ]
+        ]
+      },
+      "id": "way/412970497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970498",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8139177,
+            41.9689038
+          ],
+          [
+            2.8140374,
+            41.9692052
+          ]
+        ]
+      },
+      "id": "way/412970498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970499",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8138394,
+            41.9687087
+          ],
+          [
+            2.8139177,
+            41.9689038
+          ]
+        ]
+      },
+      "id": "way/412970499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970500",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8135716,
+            41.9680445
+          ],
+          [
+            2.8138059,
+            41.9686263
+          ],
+          [
+            2.8138394,
+            41.9687087
+          ]
+        ]
+      },
+      "id": "way/412970500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970503",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.813402,
+            41.9676261
+          ],
+          [
+            2.8135716,
+            41.9680445
+          ]
+        ]
+      },
+      "id": "way/412970503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970504",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8132527,
+            41.9672577
+          ],
+          [
+            2.8133658,
+            41.9675368
+          ],
+          [
+            2.813402,
+            41.9676261
+          ]
+        ]
+      },
+      "id": "way/412970504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970505",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8130529,
+            41.9667646
+          ],
+          [
+            2.8132527,
+            41.9672577
+          ]
+        ]
+      },
+      "id": "way/412970505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970506",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8128521,
+            41.9662692
+          ],
+          [
+            2.8130529,
+            41.9667646
+          ]
+        ]
+      },
+      "id": "way/412970506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970507",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8123858,
+            41.965112
+          ],
+          [
+            2.8128119,
+            41.9661698
+          ],
+          [
+            2.8128401,
+            41.9662396
+          ],
+          [
+            2.8128521,
+            41.9662692
+          ]
+        ]
+      },
+      "id": "way/412970507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970508",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8119817,
+            41.9640994
+          ],
+          [
+            2.812002,
+            41.9641504
+          ],
+          [
+            2.812028,
+            41.9642155
+          ],
+          [
+            2.8123636,
+            41.9650564
+          ],
+          [
+            2.8123858,
+            41.965112
+          ]
+        ]
+      },
+      "id": "way/412970508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970509",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8118473,
+            41.963766
+          ],
+          [
+            2.8119538,
+            41.9640292
+          ],
+          [
+            2.8119817,
+            41.9640994
+          ]
+        ]
+      },
+      "id": "way/412970509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970512",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8114958,
+            41.9629037
+          ],
+          [
+            2.8115054,
+            41.9629262
+          ],
+          [
+            2.8115233,
+            41.9629681
+          ],
+          [
+            2.8115595,
+            41.9630565
+          ],
+          [
+            2.8118473,
+            41.963766
+          ]
+        ]
+      },
+      "id": "way/412970512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970513",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8113299,
+            41.9624975
+          ],
+          [
+            2.8114842,
+            41.962875
+          ],
+          [
+            2.8114958,
+            41.9629037
+          ]
+        ]
+      },
+      "id": "way/412970513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970514",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8112446,
+            41.9622921
+          ],
+          [
+            2.8113299,
+            41.9624975
+          ]
+        ]
+      },
+      "id": "way/412970514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970515",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.811152,
+            41.9620624
+          ],
+          [
+            2.8112446,
+            41.9622921
+          ]
+        ]
+      },
+      "id": "way/412970515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412970516",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8110104,
+            41.961719
+          ],
+          [
+            2.811152,
+            41.9620624
+          ]
+        ]
+      },
+      "id": "way/412970516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972483",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8180103,
+            41.9790105
+          ],
+          [
+            2.8181275,
+            41.979291
+          ]
+        ]
+      },
+      "id": "way/412972483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972485",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8173605,
+            41.9774018
+          ],
+          [
+            2.8173703,
+            41.9774261
+          ],
+          [
+            2.8176097,
+            41.9780174
+          ],
+          [
+            2.8176408,
+            41.9780934
+          ]
+        ]
+      },
+      "id": "way/412972485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972486",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8166237,
+            41.9755865
+          ],
+          [
+            2.8166574,
+            41.9756594
+          ]
+        ]
+      },
+      "id": "way/412972486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972488",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt",
+        "turn:lanes:forward": "through|through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8162513,
+            41.9746804
+          ],
+          [
+            2.8165521,
+            41.9754194
+          ],
+          [
+            2.8165829,
+            41.9754968
+          ],
+          [
+            2.8165982,
+            41.9755344
+          ]
+        ]
+      },
+      "id": "way/412972488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972493",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8153045,
+            41.9723289
+          ],
+          [
+            2.815344,
+            41.9724229
+          ],
+          [
+            2.8155033,
+            41.9728247
+          ],
+          [
+            2.8155249,
+            41.972879
+          ]
+        ]
+      },
+      "id": "way/412972493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972494",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8151389,
+            41.9719181
+          ],
+          [
+            2.8151927,
+            41.9720573
+          ],
+          [
+            2.8152662,
+            41.9722377
+          ],
+          [
+            2.8153045,
+            41.9723289
+          ]
+        ]
+      },
+      "id": "way/412972494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972495",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8149347,
+            41.9714004
+          ],
+          [
+            2.8149595,
+            41.9714629
+          ],
+          [
+            2.8150027,
+            41.9715694
+          ],
+          [
+            2.8150351,
+            41.9716491
+          ],
+          [
+            2.815102,
+            41.9718137
+          ],
+          [
+            2.8151389,
+            41.9719181
+          ]
+        ]
+      },
+      "id": "way/412972495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972497",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8145253,
+            41.9703932
+          ],
+          [
+            2.8146566,
+            41.9707148
+          ]
+        ]
+      },
+      "id": "way/412972497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412972498",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8144025,
+            41.9701112
+          ],
+          [
+            2.8144937,
+            41.9703206
+          ]
+        ]
+      },
+      "id": "way/412972498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453067359",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "foot": "yes",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "shoulder": "both",
+        "sidewalk": "none",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8098747,
+            41.9575276
+          ],
+          [
+            2.8098492,
+            41.9576051
+          ],
+          [
+            2.8097801,
+            41.9578666
+          ],
+          [
+            2.8097594,
+            41.9580201
+          ],
+          [
+            2.8097461,
+            41.9581596
+          ],
+          [
+            2.8097467,
+            41.9583011
+          ],
+          [
+            2.8097581,
+            41.9584331
+          ],
+          [
+            2.8097847,
+            41.9585982
+          ],
+          [
+            2.8098201,
+            41.9587365
+          ],
+          [
+            2.8098959,
+            41.9589699
+          ]
+        ]
+      },
+      "id": "way/453067359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476615847",
+        "alt_name": "Carretera Barcelona",
+        "cycleway:both": "shared_lane",
+        "cycleway:both:lane": "pictogram",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lit": "yes",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "ref": "N-IIa",
+        "sidewalk": "both",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8144937,
+            41.9703206
+          ],
+          [
+            2.8145021,
+            41.97034
+          ],
+          [
+            2.8145253,
+            41.9703932
+          ]
+        ]
+      },
+      "id": "way/476615847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546134011",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8086556,
+            41.9554562
+          ],
+          [
+            2.8087383,
+            41.9555204
+          ],
+          [
+            2.8089738,
+            41.9556639
+          ],
+          [
+            2.8093051,
+            41.9558406
+          ],
+          [
+            2.8096279,
+            41.9560145
+          ]
+        ]
+      },
+      "id": "way/546134011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546134325",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.807955,
+            41.9541786
+          ],
+          [
+            2.8079776,
+            41.954238
+          ],
+          [
+            2.8080585,
+            41.9544411
+          ],
+          [
+            2.8082326,
+            41.9548777
+          ],
+          [
+            2.8083781,
+            41.9551565
+          ],
+          [
+            2.8084396,
+            41.9552379
+          ],
+          [
+            2.8084973,
+            41.9553142
+          ]
+        ]
+      },
+      "id": "way/546134325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546134357",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8068764,
+            41.9515101
+          ],
+          [
+            2.8069067,
+            41.9515881
+          ],
+          [
+            2.8069276,
+            41.9516375
+          ],
+          [
+            2.8069771,
+            41.9517659
+          ],
+          [
+            2.8072439,
+            41.9524221
+          ],
+          [
+            2.8072966,
+            41.9525567
+          ],
+          [
+            2.807326,
+            41.9526228
+          ],
+          [
+            2.8073516,
+            41.9526847
+          ],
+          [
+            2.8076657,
+            41.9534556
+          ],
+          [
+            2.8079185,
+            41.9540896
+          ],
+          [
+            2.807955,
+            41.9541786
+          ]
+        ]
+      },
+      "id": "way/546134357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/756487377",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "oneway": "no",
+        "parking:lane:both": "no",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8159907,
+            41.9740332
+          ],
+          [
+            2.816227,
+            41.9746206
+          ],
+          [
+            2.8162513,
+            41.9746804
+          ]
+        ]
+      },
+      "id": "way/756487377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/762741294",
+        "highway": "residential",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "oneway": "yes",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8116148,
+            41.962882
+          ],
+          [
+            2.811642,
+            41.9629501
+          ],
+          [
+            2.8119809,
+            41.9637699
+          ],
+          [
+            2.8120722,
+            41.9639915
+          ],
+          [
+            2.8121055,
+            41.9640723
+          ]
+        ]
+      },
+      "id": "way/762741294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825447306",
+        "alt_name": "Carretera Barcelona",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "lanes": "4",
+        "local_code": "0056",
+        "maxspeed": "40",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8165982,
+            41.9755344
+          ],
+          [
+            2.8166237,
+            41.9755865
+          ]
+        ]
+      },
+      "id": "way/825447306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/946062810",
+        "cycleway:both": "no",
+        "hgv": "delivery",
+        "highway": "secondary",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona",
+        "ref": "N-IIa",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8084973,
+            41.9553142
+          ],
+          [
+            2.8085442,
+            41.9553642
+          ],
+          [
+            2.808576,
+            41.9553944
+          ],
+          [
+            2.8086556,
+            41.9554562
+          ]
+        ]
+      },
+      "id": "way/946062810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1012455048",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Carrer de Barcelona",
+        "name:ca": "Carrer de Barcelona"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8153652,
+            41.9723037
+          ],
+          [
+            2.8152602,
+            41.9720392
+          ],
+          [
+            2.815218,
+            41.9719329
+          ]
+        ]
+      },
+      "id": "way/1012455048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1121155392",
+        "highway": "residential",
+        "lanes": "1",
+        "local_code": "0056",
+        "maxspeed": "50",
+        "name": "Carrer de Barcelona",
+        "name:ca": "carrer de Barcelona",
+        "oneway": "yes",
+        "parking:lane:left": "no",
+        "parking:lane:right": "parallel",
+        "source": "Ajuntament de Girona",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.8111465,
+            41.9617514
+          ],
+          [
+            2.8111634,
+            41.9617922
+          ],
+          [
+            2.8112161,
+            41.9619198
+          ],
+          [
+            2.8112609,
+            41.9620281
+          ],
+          [
+            2.8115957,
+            41.9628382
+          ],
+          [
+            2.8116148,
+            41.962882
+          ]
+        ]
+      },
+      "id": "way/1121155392"
+    }
+  ]
+}
